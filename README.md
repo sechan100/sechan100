@@ -1,4 +1,5 @@
 ### Sechan Beak 🌈
-![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sechan325)](https://solved.ac/sechan325/)
+
 
 
