@@ -1,2 +1,2 @@
-## Sechan Beak 🌈
+# Sechan Baek
 Sofeware Engineer
